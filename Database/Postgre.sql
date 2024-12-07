@@ -18,7 +18,7 @@ CREATE TABLE CLIENTS (
 );
 
 CREATE TYPE has_chip_enum AS ENUM ('YES', 'NO');
-CREATE TYPE has_carddark_enum AS ENUM ('YES', 'NO');
+CREATE TYPE has_carddark_enum AS ENUM ('YES', 'No');
 
 CREATE TABLE CARDS (
     CARD_ID SERIAL PRIMARY KEY,
