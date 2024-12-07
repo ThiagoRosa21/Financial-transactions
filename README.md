@@ -68,14 +68,18 @@ FinancialTransactionsApp/
 ├── process_transactions.py  # Script to process transactions
 ├── users_data.csv           # Example CSV for users
 ├── cards_data.csv           # Example CSV for cards
-├── transactions_data.csv    # Example CSV for transactions
 ├── inserts/                 # Folder for SQL scripts output
 │   ├── Users_Inserts.sql
 │   ├── Cards_Inserts.sql
-│   └── Transactions_Inserts.sql
+│ 
 ```
 ## Contributing
 Feel free to open issues or contribute to this project by submitting pull requests. For major changes, please open a discussion first to ensure the changes align with the project goals.
+
+# Important Note
+Due to GitHub file size restrictions, the file transactions_data.rar is not included in this repository. If you need this file for testing or to use the application, feel free to contact me at thiagorosadasilva32@gmail.com. I'll be happy to provide it directly.
+
+
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
